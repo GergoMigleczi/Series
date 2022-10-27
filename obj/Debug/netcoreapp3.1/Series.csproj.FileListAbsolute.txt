@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/Series/bin/Debug/netcoreapp3.1/Series.deps.json
+/Users/migleczigergo/Projects/Series/bin/Debug/netcoreapp3.1/Series.runtimeconfig.json
+/Users/migleczigergo/Projects/Series/bin/Debug/netcoreapp3.1/Series.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/Series/bin/Debug/netcoreapp3.1/Series.dll
+/Users/migleczigergo/Projects/Series/bin/Debug/netcoreapp3.1/Series.pdb
+/Users/migleczigergo/Projects/Series/obj/Debug/netcoreapp3.1/Series.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/Series/obj/Debug/netcoreapp3.1/Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/Series/obj/Debug/netcoreapp3.1/Series.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/Series/obj/Debug/netcoreapp3.1/Series.AssemblyInfo.cs
+/Users/migleczigergo/Projects/Series/obj/Debug/netcoreapp3.1/Series.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/Series/obj/Debug/netcoreapp3.1/Series.dll
+/Users/migleczigergo/Projects/Series/obj/Debug/netcoreapp3.1/Series.pdb
+/Users/migleczigergo/Projects/Series/obj/Debug/netcoreapp3.1/Series.genruntimeconfig.cache
